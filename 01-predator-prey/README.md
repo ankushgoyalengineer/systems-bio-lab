@@ -17,15 +17,15 @@ By plotting two different environmental scenarios on the same time axis, we can 
 * **Orange (Unlimited Resources, K=1000):** Results in aggressive, continuous population swings.
 * **Blue (Limited Resources, K=25):** The friction of a lower carrying capacity forces a damped oscillation, smoothing the population curves into a permanent, flat equilibrium.
 
-> ![alt text](image-2.png)
+> ![Comparison of Carrying Capacities](comparison-plot.png)
 
 ### 2. Phase Portraits: Orbital Cycles vs. Equilibrium Spirals
 By removing the time axis and plotting the prey population directly against the predator population, we can visualize the ecosystem's trajectory. 
 
 With unlimited resources, the populations remain locked in a massive, continuous orbit. However, introducing a strict resource limit ($K=25$) causes the phase portrait to collapse into an inward spiral, pulling the populations directly into a mathematical equilibrium of exactly 10 prey and 6 predators.
 
-> ![alt text](image-1.png)
-> ![alt text](image.png)
+> ![Phase Portrait K=25](phase-portrait-k25.png)
+> ![Phase Portrait K=1000](phase-portrait-k1000.png)
 
 ## Tech Stack
 * **Language:** Python 3.x
@@ -36,4 +36,4 @@ With unlimited resources, the populations remain locked in a massive, continuous
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YourUsername/YourRepositoryName.git](https://github.com/YourUsername/YourRepositoryName.git)
+   git clone https://github.com/ankushgoyalengineer/systems-bio-lab.git
