@@ -1,11 +1,13 @@
 # **Building a Mechanistic Enzyme Kinetics Engine**
 
 **Why I Built This**
+
 Coming from a life sciences background, I've spent a lot of time working around biological systems, but I learn best by actually building things from the ground up. Instead of just memorizing the standard Michaelis-Menten (M-M) equation for a portfolio project, I wanted to computationally derive it myself.
 
 The goal of this project was to build the raw, undisputed physics of a chemical reaction using Ordinary Differential Equations (ODEs) as a "ground truth," and then overlay the Michaelis-Menten approximation to physically see exactly when the math works, and more importantly, when it completely breaks down.
 
 **The Process & The Math**
+
 I started by drafting the logic in a Jupyter Notebook so I could run the engine step-by-step before modularizing it into a final .py script.
 
 The reaction follows this standard path:
