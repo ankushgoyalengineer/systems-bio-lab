@@ -1,11 +1,11 @@
-Building a Mechanistic Enzyme Kinetics Engine
+# **Building a Mechanistic Enzyme Kinetics Engine**
 
-Why I Built This
+**Why I Built This**
 Coming from a life sciences background, I've spent a lot of time working around biological systems, but I learn best by actually building things from the ground up. Instead of just memorizing the standard Michaelis-Menten (M-M) equation for a portfolio project, I wanted to computationally derive it myself.
 
 The goal of this project was to build the raw, undisputed physics of a chemical reaction using Ordinary Differential Equations (ODEs) as a "ground truth," and then overlay the Michaelis-Menten approximation to physically see exactly when the math works, and more importantly, when it completely breaks down.
 
-The Process & The Math
+**The Process & The Math**
 I started by drafting the logic in a Jupyter Notebook so I could run the engine step-by-step before modularizing it into a final .py script.
 
 The reaction follows this standard path:
@@ -43,7 +43,7 @@ With enzyme this abundant, most of the substrate is pulled into the ES complex a
 The result: the mechanistic model correctly plateaued near P≈100 (all substrate mass converted), while the M-M approximation diverged by two orders of magnitude, running away to over 11,000 by the end of the simulation. This is the QSSA failing exactly where the textbook condition says it should — not from a coding error, but from the approximation's blindness to substrate mass trapped in the ES complex.
 > ![Divergence: S = E](MM_divergence.png)
 
-The Core Engine
+**The Core Engine**
 
 Instead of relying on pre-built solvers, I built the numerical integration loop from scratch, tracking running state separately from initial conditions so I could validate mass conservation against the true starting values at every step.
 
