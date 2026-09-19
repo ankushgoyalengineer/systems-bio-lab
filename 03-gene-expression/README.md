@@ -36,7 +36,7 @@ The unregulated system rises smoothly to steady state with no overshoot — ther
 
 NOTE: mRNA plateaus at ~71 molecules/cell, too small to see on this scale next to protein's ~17,857 — see printed values above for the exact number
 
-![Baseline: no feedback](03-gene-expression/no_feedback_baseline.png)
+![Baseline: no feedback](no_feedback_baseline.png)
 
 ## Stage 2: Adding Repression
 
@@ -46,7 +46,7 @@ transcription_rate = alpha / (1 + (P / Kd)^n)
 
 `n` controls how sharply repression switches on as protein crosses the threshold `Kd`. With biologically realistic repressor cooperativity (n=4, consistent with the repressilator's design), the system no longer approaches steady state smoothly. Protein peaks at 588.31 molecules/cell before settling to a final steady state of 281.18 — a peak-to-final ratio of 2.09, meaning the transient overshoot is roughly double the eventual steady-state level. That overshoot is the first sign that feedback doesn't just relocate the equilibrium, it changes the *path* the system takes to get there.
 
-![Feedback with n=4: overshoot and settle](03-gene-expression/feedback_n4.png)
+![Feedback with n=4: overshoot and settle](feedback_n4.png)
 
 ## Stage 3: A Numerical Artifact I Almost Missed
 
@@ -56,7 +56,7 @@ At my original step size (dt=0.01), that stress test produced what looked like s
 
 I checked it against a much finer step size (dt=0.001), extending the comparison to the full 1440-minute (24-hour) window used consistently elsewhere in this analysis, rather than the shorter window I'd initially tested. That correction mattered: at a shorter window, the system hadn't yet reached true steady state, so an earlier version of this check was inadvertently comparing two mid-transient values rather than two converged endpoints. Over the full window, both step sizes converge to the same steady state — 160.0864741377557 (dt=0.01) versus 160.0864741377811 (dt=0.001) — agreeing to roughly 10 significant figures.
 
-![n=10: dt sensitivity check](03-gene-expression/dt_sensitivity_n10.png)
+![n=10: dt sensitivity check](dt_sensitivity_n10.png)
 
 That confirmed dt=0.01 is trustworthy in the range I actually use for the rest of the analysis (n up to 10), once compared on equal, fully-converged footing. The earlier appearance of sustained wiggling at n=1000 reflects the integrator struggling to resolve an artificially sharp, non-physiological switch — not a property of any biologically realistic version of this circuit.
 
@@ -68,7 +68,7 @@ With n=1000 set aside as a non-biological stress test, I swept the Hill coeffici
 
 My prediction going in: steeper repression should produce a sharper, later-triggering brake on transcription, so overshoot should increase with n.
 
-![Hill coefficient vs overshoot ratio](03-gene-expression/hill_sweep_overshoot.png)
+![Hill coefficient vs overshoot ratio](hill_sweep_overshoot.png)
 
 n	Overshoot ratio
 1	1.0000
