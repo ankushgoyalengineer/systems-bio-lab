@@ -91,4 +91,4 @@ Alon, U. (2019). An Introduction to Systems Biology: Design Principles of Biolog
 
 Elowitz, M. B., & Leibler, S. (2000). A synthetic oscillatory network of transcriptional regulators. Nature, 403(6767), 335–338.
 
-(Full implementation, including the GeneNetwork class and the sweep script, is available in model.py and the accompanying notebook.)
+**Full implementation, including the GeneNetwork class and the sweep script, is available in model.py and the accompanying notebook.**
