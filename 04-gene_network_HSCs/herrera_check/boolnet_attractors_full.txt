@@ -1,0 +1,203 @@
+Attractor 1 is a simple attractor consisting of 1 state(s) and has a basin of 551768 state(s):
+
+ |--<--------------------|
+ V                       |
+ 000100010000010111000   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 2 is a simple attractor consisting of 1 state(s) and has a basin of 646816 state(s):
+
+ |--<--------------------|
+ V                       |
+ 100000010000010111001   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 3 is a simple attractor consisting of 1 state(s) and has a basin of 54336 state(s):
+
+ |--<--------------------|
+ V                       |
+ 001100010000010111000   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 4 is a simple attractor consisting of 1 state(s) and has a basin of 72448 state(s):
+
+ |--<--------------------|
+ V                       |
+ 101000010000010111001   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 5 is a simple attractor consisting of 1 state(s) and has a basin of 200808 state(s):
+
+ |--<--------------------|
+ V                       |
+ 011100010000010111000   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 6 is a simple attractor consisting of 1 state(s) and has a basin of 91136 state(s):
+
+ |--<--------------------|
+ V                       |
+ 111000010000010111001   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 7 is a simple attractor consisting of 1 state(s) and has a basin of 107096 state(s):
+
+ |--<--------------------|
+ V                       |
+ 000100000011010111000   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 8 is a simple attractor consisting of 1 state(s) and has a basin of 107104 state(s):
+
+ |--<--------------------|
+ V                       |
+ 100000000011010111001   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 9 is a simple attractor consisting of 1 state(s) and has a basin of 36864 state(s):
+
+ |--<--------------------|
+ V                       |
+ 011100001000110111000   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 10 is a simple attractor consisting of 1 state(s) and has a basin of 36864 state(s):
+
+ |--<--------------------|
+ V                       |
+ 111000001000110111001   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 11 is a simple attractor consisting of 1 state(s) and has a basin of 4096 state(s):
+
+ |--<--------------------|
+ V                       |
+ 011100001100010111000   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 12 is a simple attractor consisting of 1 state(s) and has a basin of 4096 state(s):
+
+ |--<--------------------|
+ V                       |
+ 111000001100010111001   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 13 is a simple attractor consisting of 1 state(s) and has a basin of 3496 state(s):
+
+ |--<--------------------|
+ V                       |
+ 001111100010001000110   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 14 is a simple attractor consisting of 2 state(s) and has a basin of 24576 state(s):
+
+ |--<--------------------|
+ V                       |
+ 011100001000010111000   |
+ 011100001100110111000   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 15 is a simple attractor consisting of 2 state(s) and has a basin of 24576 state(s):
+
+ |--<--------------------|
+ V                       |
+ 111000001000010111001   |
+ 111000001100110111001   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 16 is a simple attractor consisting of 2 state(s) and has a basin of 53760 state(s):
+
+ |--<--------------------|
+ V                       |
+ 011100011001010111000   |
+ 010100000100110111000   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 17 is a simple attractor consisting of 2 state(s) and has a basin of 65536 state(s):
+
+ |--<--------------------|
+ V                       |
+ 111000011001010111001   |
+ 110000000100110111001   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+
+Attractor 18 is a simple attractor consisting of 2 state(s) and has a basin of 11776 state(s):
+
+ |--<--------------------|
+ V                       |
+ 011001011001000101000   |
+ 010100000100101011111   |
+ V                       |
+ |-->--------------------|
+
+
+Genes are encoded in the following order: Oxygen Runx1 Meis1 HIF1 FOXO3 p53 GATA2 GATA1 PU1 Cebpa Ikzf1 Gfi1 Mef2c mTOR AMPK AKT H2O2 O2 SOD Antiox OXPHOS
+

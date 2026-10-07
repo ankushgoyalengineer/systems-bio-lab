@@ -1,0 +1,77 @@
+Attractor 1 is a simple attractor consisting of 1 state(s) and has a basin of 551768 state(s).
+Active genes in the attractor state(s):
+State 1: HIF1, GATA1, mTOR, AKT, H2O2, O2
+
+Attractor 2 is a simple attractor consisting of 1 state(s) and has a basin of 646816 state(s).
+Active genes in the attractor state(s):
+State 1: Oxygen, GATA1, mTOR, AKT, H2O2, O2, OXPHOS
+
+Attractor 3 is a simple attractor consisting of 1 state(s) and has a basin of 54336 state(s).
+Active genes in the attractor state(s):
+State 1: Meis1, HIF1, GATA1, mTOR, AKT, H2O2, O2
+
+Attractor 4 is a simple attractor consisting of 1 state(s) and has a basin of 72448 state(s).
+Active genes in the attractor state(s):
+State 1: Oxygen, Meis1, GATA1, mTOR, AKT, H2O2, O2, OXPHOS
+
+Attractor 5 is a simple attractor consisting of 1 state(s) and has a basin of 200808 state(s).
+Active genes in the attractor state(s):
+State 1: Runx1, Meis1, HIF1, GATA1, mTOR, AKT, H2O2, O2
+
+Attractor 6 is a simple attractor consisting of 1 state(s) and has a basin of 91136 state(s).
+Active genes in the attractor state(s):
+State 1: Oxygen, Runx1, Meis1, GATA1, mTOR, AKT, H2O2, O2, OXPHOS
+
+Attractor 7 is a simple attractor consisting of 1 state(s) and has a basin of 107096 state(s).
+Active genes in the attractor state(s):
+State 1: HIF1, Ikzf1, Gfi1, mTOR, AKT, H2O2, O2
+
+Attractor 8 is a simple attractor consisting of 1 state(s) and has a basin of 107104 state(s).
+Active genes in the attractor state(s):
+State 1: Oxygen, Ikzf1, Gfi1, mTOR, AKT, H2O2, O2, OXPHOS
+
+Attractor 9 is a simple attractor consisting of 1 state(s) and has a basin of 36864 state(s).
+Active genes in the attractor state(s):
+State 1: Runx1, Meis1, HIF1, PU1, Mef2c, mTOR, AKT, H2O2, O2
+
+Attractor 10 is a simple attractor consisting of 1 state(s) and has a basin of 36864 state(s).
+Active genes in the attractor state(s):
+State 1: Oxygen, Runx1, Meis1, PU1, Mef2c, mTOR, AKT, H2O2, O2, OXPHOS
+
+Attractor 11 is a simple attractor consisting of 1 state(s) and has a basin of 4096 state(s).
+Active genes in the attractor state(s):
+State 1: Runx1, Meis1, HIF1, PU1, Cebpa, mTOR, AKT, H2O2, O2
+
+Attractor 12 is a simple attractor consisting of 1 state(s) and has a basin of 4096 state(s).
+Active genes in the attractor state(s):
+State 1: Oxygen, Runx1, Meis1, PU1, Cebpa, mTOR, AKT, H2O2, O2, OXPHOS
+
+Attractor 13 is a simple attractor consisting of 1 state(s) and has a basin of 3496 state(s).
+Active genes in the attractor state(s):
+State 1: Meis1, HIF1, FOXO3, p53, GATA2, Ikzf1, AMPK, SOD, Antiox
+
+Attractor 14 is a simple attractor consisting of 2 state(s) and has a basin of 24576 state(s).
+Active genes in the attractor state(s):
+State 1: Runx1, Meis1, HIF1, PU1, mTOR, AKT, H2O2, O2
+State 2: Runx1, Meis1, HIF1, PU1, Cebpa, Mef2c, mTOR, AKT, H2O2, O2
+
+Attractor 15 is a simple attractor consisting of 2 state(s) and has a basin of 24576 state(s).
+Active genes in the attractor state(s):
+State 1: Oxygen, Runx1, Meis1, PU1, mTOR, AKT, H2O2, O2, OXPHOS
+State 2: Oxygen, Runx1, Meis1, PU1, Cebpa, Mef2c, mTOR, AKT, H2O2, O2, OXPHOS
+
+Attractor 16 is a simple attractor consisting of 2 state(s) and has a basin of 53760 state(s).
+Active genes in the attractor state(s):
+State 1: Runx1, Meis1, HIF1, GATA1, PU1, Gfi1, mTOR, AKT, H2O2, O2
+State 2: Runx1, HIF1, Cebpa, Mef2c, mTOR, AKT, H2O2, O2
+
+Attractor 17 is a simple attractor consisting of 2 state(s) and has a basin of 65536 state(s).
+Active genes in the attractor state(s):
+State 1: Oxygen, Runx1, Meis1, GATA1, PU1, Gfi1, mTOR, AKT, H2O2, O2, OXPHOS
+State 2: Oxygen, Runx1, Cebpa, Mef2c, mTOR, AKT, H2O2, O2, OXPHOS
+
+Attractor 18 is a simple attractor consisting of 2 state(s) and has a basin of 11776 state(s).
+Active genes in the attractor state(s):
+State 1: Runx1, Meis1, p53, GATA1, PU1, Gfi1, AKT, O2
+State 2: Runx1, HIF1, Cebpa, Mef2c, AMPK, H2O2, O2, SOD, Antiox, OXPHOS
+
